@@ -2,6 +2,6 @@
 .env
 src/.gradio
 src/__pycache__
-data/educational_db
+data/educational_db/*
 data/educational_db/chroma.sqlite3
      
