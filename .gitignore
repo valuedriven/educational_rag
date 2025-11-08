@@ -1,2 +1,6 @@
 .venv
 .env
+src/.gradio
+src/__pycache__
+data/educational_db
+     

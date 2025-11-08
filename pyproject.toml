@@ -19,8 +19,10 @@ dependencies = [
     "matplotlib>=3.10.7",
     "nbformat>=5.10.4",
     "numpy>=2.3.4",
+    "pacmap>=0.8.0",
     "plotly>=6.4.0",
     "scikit-learn>=1.7.2",
+    "sentence-transformers>=5.1.2",
     "setuptools>=80.9.0",
     "typer>=0.20.0",
 ]
